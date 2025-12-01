@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Run Away",
+  "base_artist": "Ekusu Kyō",
+  "createdAt": "2025-12-01T18:37:00.658993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Run Away With You",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/01_Run_Away_With_You_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Run Away",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/02_Run_Away_陶喆.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Run Away",
+      "artist": "Milosh",
+      "has_synced": false,
+      "path": "select/03_Run_Away_Milosh.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Don't Run Away",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/04_Baby_Don't_Run_Away_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let's Run Away",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/05_Let's_Run_Away_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Run Away",
+      "artist": "Roachford",
+      "has_synced": true,
+      "path": "select/06_Run_Away_Roachford.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Run Away (The Escape Song)",
+      "artist": "Oingo Boingo",
+      "has_synced": true,
+      "path": "select/07_Run_Away_(The_Escape_Song)_Oingo_Boingo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Won't Run Away",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/08_Won't_Run_Away_Sandra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Won't Run Away (extended Guitar mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/09_Won't_Run_Away_(extended_Guitar_mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Won't Run Away [extended guitar mix]",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/10_Won't_Run_Away_[extended_guitar_mix]_Sandra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Won't Run Away (Happy Dancer mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/11_Won't_Run_Away_(Happy_Dancer_mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Won't Run Away [happy dancer mix]",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/12_Won't_Run_Away_[happy_dancer_mix]_Sandra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Won't Run Away (radio edit)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/13_Won't_Run_Away_(radio_edit)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Won't Run Away [radio edit]",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/14_Won't_Run_Away_[radio_edit]_Sandra.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Won't Run Away (The Sunshine mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/15_Won't_Run_Away_(The_Sunshine_mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Won't Run Away [the sunshine mix]",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/16_Won't_Run_Away_[the_sunshine_mix]_Sandra.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Do You Run Away Now",
+      "artist": "Cappella",
+      "has_synced": false,
+      "path": "select/17_Do_You_Run_Away_Now_Cappella.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Run Away",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/18_Run_Away_MØ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Runaway",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_01_Runaway_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Runaway Baby",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_02_Runaway_Baby_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Run Away",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_03_Run_Away_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Run Away",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_04_Run_Away_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Runaway train",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_05_Runaway_train_MONKEY_MAJIK.txt"
+    }
+  ]
+}
